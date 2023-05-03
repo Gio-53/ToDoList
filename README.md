@@ -21,5 +21,4 @@
 - Função de busca para as tarefas;
 - Utilização de localStorage, para mesmo após o usuário fechar a página e voltar mais tarde, as tarefas continuarem lá.
 
-
 ![](tela.png)
